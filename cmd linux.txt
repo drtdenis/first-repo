@@ -1,0 +1,16 @@
+man = Affiche les pages du manuel système
+cd = change directory, la commande permet de naviguer dans l’arborescence
+ls = liste les fichiers d'un dossier
+ls -a = pour les fichiers cachés
+ls -l = pour la liste détaillées
+cd ~ = mène au répertoire de l'utilisateur courant (/home/user/ la plupart du temps ou /root/ si vous êtes en root)
+cd - = permet de revenir au répertoire précédent.
+pwd = print working directory. Cette commande affiche tout simplement le chemin absolu du dossier dans lequel on se trouve
+mkdir = créer un dossier
+code . = appel vscode
+apt get = gestion des paquets
+curl = permet d'envoyer ou telecharger un fichier sur le reseau
+cd .. = permet de remonter au répertoire parent (ne pas oublier l'espace contrairement à windows)
+list
+passwd = Permet de modifier le mot de passe d'un utilisateur.
+sudo = Permet d'exécuter des commandes en tant qu'un autre utilisateur, donc avec d'autres privilèges que les siens.
